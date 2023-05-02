@@ -1,0 +1,23 @@
+{
+  "name": "angular-explored",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirag4582/angular-explored.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chirag4582/angular-explored/issues"
+  },
+  "homepage": "https://github.com/chirag4582/angular-explored#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
